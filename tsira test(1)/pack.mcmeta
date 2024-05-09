@@ -1,9 +1,6 @@
 {
   "pack": {
-    "pack_format": 3,
-    "description": "tsira test (Nova Skin)"
-  },
-  "novaskin": {
-    "date": "Wed, 08 May 2024 22:46:39 GMT"
+    "pack_format": 20,
+    "description": "tsira test"
   }
 }
