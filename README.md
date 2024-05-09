@@ -1,0 +1,1 @@
+This is a Minecraft Resource pack designed for Accessibility for individuals with a phobia towards fleshy undead. It retexures, resounds, and relanguages the standard, wet, dry, trading, pigfolk, horse, and wild hog versions of the mob.
