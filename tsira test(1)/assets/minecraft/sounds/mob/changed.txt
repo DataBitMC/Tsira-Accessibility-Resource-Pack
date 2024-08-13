@@ -1,0 +1,29 @@
+Bee
+	!sting
+Drowned
+	-death#
+	-hurt#
+	-idle#
+	Water
+		-All
+Horse
+	All but zombie
+Husk
+	convert#
+	step#
+Zoglin
+	None
+		sounds pretty much the same as hoglin
+Zombie
+	infect
+	remedy
+	unfect
+	metal#
+	wood#
+	woodbreak
+	step#
+Zombified Piglin
+	zpig3
+	zpig4
+	zpigangry#
+	zpighurt#
